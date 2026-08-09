@@ -1,6 +1,6 @@
 ---
 title: "Hello 二进制世界"
-published: true
+published: 2026-08-09
 date: 2026-08-09
 description: "博客重新开张！"
 tags: ["pwn", "CTF", "二进制"]
