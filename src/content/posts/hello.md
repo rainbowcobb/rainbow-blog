@@ -2,6 +2,8 @@
 
 title: "Hello 二进制世界"
 
+published: true
+
 date: 2026-08-09
 
 description: "博客重新开张！"
